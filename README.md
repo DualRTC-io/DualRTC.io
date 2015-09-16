@@ -47,5 +47,5 @@ This release is composed of XXXXXXXXXXXXXX components:
 
 
 ## License
-The MIT License. Please see [the license file](LICENSE) for more information.
-Also this project is managed under [SAMSUNG SOFTWARE MEMBERSHIP](http://www.secmem.org/) in Gangbuk, Seoul.
+The MIT License. Please see [the license file](LICENSE) for more information.<br>
+Also managed under [SAMSUNG SOFTWARE MEMBERSHIP](http://www.secmem.org/) in Gangbuk, Seoul.
