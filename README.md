@@ -38,7 +38,7 @@ Unfortunately, a server (or two servers) will still be required for two reasons,
 
 ### Technologies
 
-* *Node.js*
+* *Node.js* <br>
 Install [Node.js](http://nodejs.org/download/) and Manager node version using [nvm(Node Version Manager)](https://github.com/creationix/nvm").
 ```bash
 $ sudo apt-get update
@@ -51,7 +51,7 @@ $ nvm use 4.2.1
 * *Chrome Extensions*
 
 ### packages
-* *gulp*
+* *gulp* <br>
 gulp is a toolkit that will help you automate painful or time-consuming tasks in your development workflow. For web development (if that's your thing) it can help you by doing CSS preprocessing, JS transpiling, minification, live reloading, and much more.
 ```bash
 # Install gulp globally:
@@ -61,7 +61,7 @@ $ npm install -g gulp
 $ npm install --save-dev gulp
 ```
 
-* *pm2*
+* *pm2* <br>
 PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
 ```bash
 # Install pm2 globally:
