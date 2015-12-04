@@ -1,6 +1,6 @@
 
 # DualRTC.io
-WebRTC (Web Real-Time Communication) Open Source Project Enhancement and Integrated Device Driver and Dual Monitor Development at SAMSUNG SOFTWARE MEMBERSHIP
+WebRTC (Web Real-Time Communication) Open Source Project Enhancement and Integrated Device Driver and Dual Monitor Development
 
 # Table of Contents
 
@@ -115,5 +115,4 @@ $ pm2 delete app.js
 * [WebRTC 1.0: Real-time Communication Between Browsers](http://www.w3.org/TR/2015/WD-webrtc-20150210/)
 
 # License
-The MIT License. Please see [the license file](LICENSE) for more information.<br>
-Also managed under [SAMSUNG SOFTWARE MEMBERSHIP](http://www.secmem.org/) in Gangbuk, Seoul.
+The MIT License. Please see [the license file](LICENSE) for more information.
